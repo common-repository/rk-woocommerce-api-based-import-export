@@ -1,0 +1,2 @@
+order_number,created_at,updated_at,completed_at,status,currency,total,subtotal,total_line_items_quantity,total_tax,total_shipping,cart_tax,shipping_tax,total_discount,shipping_methods,payment_details,billing_address,shipping_address,note,customer_ip,customer_user_agent,customer_id,view_order_url,line_items,shipping_lines,tax_lines,fee_lines,coupon_lines,customer
+643,2016-07-25T06:25:00Z,2016-07-25T06:27:31Z,2016-07-25T06:27:31Z,pending,USD,0,0,0,0,0,0,0,0,,,,,,,,0,http://wp.ravikatre.in/my-account/view-order/643,,,,,,

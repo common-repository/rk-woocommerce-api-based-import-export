@@ -1,0 +1,4 @@
+created_at,email,first_name,last_name,username,password,role,last_order_id,last_order_date,orders_count,total_spent,avatar_url,billing_address,shipping_address
+2016-07-25T07:30:38Z,rr@tiuconsulting.com,ravi,katre,Ram,admin,customer,644,2016-07-25T07:30:44Z,1,56,http://2.gravatar.com/avatar/?s=96,,
+2016-07-25T07:30:38Z,yuyuyuyuy@tiuconsulting.com,ravi,katre1,dharm,admin,customer,644,2016-07-25T07:30:44Z,0,0,,,
+2016-07-25T07:30:38Z,kkk@tiuconsulting.com,ravi,katre2,Rajesh,admin,customer,644,2016-07-25T07:30:44Z,0,0,,,
